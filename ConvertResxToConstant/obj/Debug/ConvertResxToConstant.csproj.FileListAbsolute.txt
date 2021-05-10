@@ -1,0 +1,16 @@
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\SharedResource.en.resx
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\ConvertResxToConstant.exe.config
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\ConvertResxToConstant.exe
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\ConvertResxToConstant.pdb
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\en\ConvertResxToConstant.resources.dll
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.csprojAssemblyReference.cache
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.SharedResource.en.resources
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.csproj.GenerateResource.cache
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.csproj.CoreCompileInputs.cache
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\en\ConvertResxToConstant.resources.dll
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.csproj.CopyComplete
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.exe
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\obj\Debug\ConvertResxToConstant.pdb
+C:\Users\BolajiOyeneye\source\repos\ConvertResxToConstant\ConvertResxToConstant\bin\Debug\file.txt

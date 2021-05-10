@@ -1,0 +1,5 @@
+namespace WalletServices {
+	public class LocalConstants {
+		{content}
+	}
+}
